@@ -17,10 +17,10 @@ jobs:
       uses: actions/checkout@v4
       
     - name: AutoTrigger
-      uses: jow905/ActionBot@main
+      uses: bigbugcc/ActionBot@main
 
     - name: Delete workflow runs
-      uses: jow905/delete-workflow-runs@main
+      uses: bigbugcc/delete-workflow-runs@main
       with:
         keep_minimum_runs: 1
 
