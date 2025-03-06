@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone --depth 1 https://github.com/bigbugcc/OpenwrtApp package/otherapp/OpenwrtApp
+git clone --depth 1 https://github.com/jow905/OpenwrtApp package/otherapp/OpenwrtApp
 git clone --depth 1 https://github.com/destan19/OpenAppFilter package/otherapp/OpenAppFilter
 git clone --depth 1 https://github.com/zzsj0928/luci-app-pushbot package/otherapp/luci-app-pushbot
 
